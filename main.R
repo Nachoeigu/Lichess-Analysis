@@ -345,4 +345,4 @@ matches <- matches %>%
 
 #READY!!
 library(writexl)
-write_xlsx(matches,"C:/Users/Sol/Desktop/matches.xlsx")
+write_xlsx(matches,"matches.xlsx")
